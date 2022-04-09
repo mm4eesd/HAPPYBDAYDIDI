@@ -1,0 +1,21 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background-image: linear-gradient(to right top, #f0440f, #2e009b, #272d80, #454177, #b10909);
+}
+
+
+h1
+{
+    color: cornflowerblue;
+    font-family:fantasy
+}
+#img1 {
+    max-width: 10%;
+    max-height: 10%;
+   }
